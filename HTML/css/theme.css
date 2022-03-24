@@ -9318,3 +9318,24 @@ html.gap-outside .pin-wrapper .sticky-wrapper.sticky-effect-active .sticky-body 
 	padding-left: 25px;
 	padding-right: 25px;
 }
+
+.gallery-image {
+    float: left;
+    width:  100px;
+    height: 300px;
+    object-fit: cover;
+}
+
+.ceritification-image {
+    float: left;
+    width:  100px;
+    height: 300px;
+    object-fit: cover;
+}
+
+.logo-image{
+	float: left;
+    width:  100px;
+    height: 85px;
+    object-fit: cover;
+}
